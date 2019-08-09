@@ -15,7 +15,6 @@ import org.springframework.test.context.junit4.SpringJUnit4ClassRunner;
 import org.springframework.web.client.RestTemplate;
 
 import com.beerhouse.model.Beers;
-import com.fasterxml.jackson.core.JsonProcessingException;
 
 
 
